@@ -1,0 +1,118 @@
+# ================================
+# Python
+# ================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+./__pycache__
+/__pycache__
+./pyc
+__pycache__
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+./venv
+venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+*.manifest
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Databases
+*.db
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ================================
+# Node.js
+# ================================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ================================
+# PHP / Composer
+# ================================
+vendor/
+.phpunit.cache
+.phpunit.result.cache
+.phpactor.json
+
+# ================================
+# IDEs / Editors
+# ================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# ================================
+# OS files
+# ================================
+.DS_Store
+Thumbs.db
+
+# ================================
+# Environment / Secret Keys
+# ================================
+.env
+.env.*
+*.key
+auth.json
+Homestead.json
+Homestead.yaml
+
+# ================================
+# Build / Generated Files
+# ================================
+*.pdf
+public/build/
+public/hot/
+public/storage/
+storage/
+fleet/
+
+# ================================
+# Logs
+# ================================
+*.log
